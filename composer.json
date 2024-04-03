@@ -1,0 +1,32 @@
+{
+    "name": "magedin/module-shipping",
+    "description": "This extension provides support to all of the MagedIn Shipping modules.",
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*",
+        "magedin/module-license-manager": "^1.0"
+    },
+    "license": [
+        "Commercial"
+    ],
+    "authors": [
+        {
+            "name": "MagedIn Technology",
+            "email": "support@magedin.com"
+        }
+    ],
+    "support": {
+        "email": "support@magedin.com"
+    },
+    "extra": {
+        "module": "MagedIn_Shipping"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "MagedIn\\Shipping\\": ""
+        }
+    }
+}

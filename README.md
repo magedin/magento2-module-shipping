@@ -1,0 +1,2 @@
+# MagedIn_Shipping module
+
