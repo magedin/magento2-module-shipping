@@ -4,8 +4,7 @@
     "type": "magento2-module",
     "require": {
         "magento/framework": "*",
-        "magento/module-shipping": "*",
-        "magedin/module-license-manager": "^1.0"
+        "magento/module-shipping": "*"
     },
     "license": "proprietary",
     "authors": [
