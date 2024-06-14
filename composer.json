@@ -7,9 +7,7 @@
         "magento/module-shipping": "*",
         "magedin/module-license-manager": "^1.0"
     },
-    "license": [
-        "Commercial"
-    ],
+    "license": "proprietary",
     "authors": [
         {
             "name": "MagedIn Technology",
